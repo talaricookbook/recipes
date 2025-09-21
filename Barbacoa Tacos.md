@@ -6,7 +6,7 @@ time: 4 hours
 servings: 12
 ---
 
-# 🌮 Barbacoa Beef Tacos
+# 🌮 Barbacoa Tacos
 
 ## 🛒 Ingredients
 - [ ] 3-4 lb boneless chuck roast, trimmed, cubed
