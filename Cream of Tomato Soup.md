@@ -41,3 +41,6 @@ servings: 4
 - Cut the cream in half
 
 ## 📸 Photo
+
+## 🔗 Source
+[Source](https://frienji.kenjilopezalt.com/posts/recipe-cream-of-98451191)
