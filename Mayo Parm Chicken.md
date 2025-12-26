@@ -6,7 +6,7 @@ time: 45 Minutes
 servings: 4
 ---
 
-# 🧆 Meatballs
+# 🐔 Mayo Parm Chicken
 
 ## 🛒 Ingredients
 - [ ] 4 boneless, skinless chicken breasts
