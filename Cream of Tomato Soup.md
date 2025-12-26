@@ -43,4 +43,4 @@ servings: 4
 ## 📸 Photo
 
 ## 🔗 Source
-[Source](https://frienji.kenjilopezalt.com/posts/recipe-cream-of-98451191)
+[Caramelized Cream of Tomato Soup](https://frienji.kenjilopezalt.com/posts/recipe-cream-of-98451191)
