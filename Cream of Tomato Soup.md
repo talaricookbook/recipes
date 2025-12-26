@@ -6,7 +6,7 @@ time: 45 Minutes
 servings: 4
 ---
 
-# 🧆 Cream of Tomato Soup
+# 🥣 Cream of Tomato Soup
 
 ## 🛒 Ingredients
 - [ ] 24oz (700g) roma or cherry tomatoes, quartered
