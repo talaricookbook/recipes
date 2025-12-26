@@ -5,7 +5,7 @@ tags: [Italian, snack, Appetizer]
 time: 40 Minutes
 ---
 
-# 🧆 Meatballs
+# 🍅 Bruschetta Dip
 
 ## 🛒 Ingredients
 - [ ] 5 Roma Tomatoes, diced
