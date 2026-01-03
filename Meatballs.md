@@ -42,6 +42,7 @@ Roll into 1-1.5 inch balls
 - Toss in warm marinara sauce or serve with pasta.
 
 ## 💡 Notes / Tips
--  Finish cooking the meatballs in marinara sauce for extra flavor.
+- Finish cooking the meatballs in marinara sauce for extra flavor.
+- Romano can be used in place or in addition to Parmesean
 
 ## 📸 Photo
