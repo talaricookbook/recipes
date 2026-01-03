@@ -57,7 +57,8 @@ servings: 16 Cookies
 - Store in an airtight container for up to 5 days
 
 ## 💡 Notes / Tips
-- 
+- Make sure to wait long enough to get the 'ribbons' when creaming the sugar eggs and vanilla
+- Brown butter needs to be very cool and a thick frosting texture before adding it
 
 ## 📸 Photo
 
