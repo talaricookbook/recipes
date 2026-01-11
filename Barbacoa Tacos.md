@@ -10,8 +10,8 @@ servings: 12
 
 ## 🛒 Ingredients
 - [ ] 3-4 lb boneless chuck roast, trimmed, cubed
-- [ ] 4 chipotle peppers in adobo sauce
-- [ ] 2.5 tbsp adobo sauce
+- [ ] 3 chipotle peppers in adobo sauce
+- [ ] 2 tbsp adobo sauce
 - [ ] 4 cloves garlic
 - [ ] 1 medium white onion, chopped
 - [ ] 1 tbsp cumin
