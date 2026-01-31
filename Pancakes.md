@@ -9,8 +9,8 @@ servings: 12
 # 🥞 Pancakes
 
 ## 🛒 Ingredients
-- [ ] 2 cups all-purpose flour (260g)
-- [ ] 3 tbsp white sugar (40g)
+- [ ] 2 cups all-purpose flour (250g)
+- [ ] 3 tbsp white sugar (38g)
 - [ ] 1.5 tsp baking soda
 - [ ] 1.5 tsp baking soda
 - [ ] 2 tsp kosher salt
