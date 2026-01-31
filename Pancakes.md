@@ -12,7 +12,7 @@ servings: 12
 - [ ] 2 cups all-purpose flour (250g)
 - [ ] 3 tbsp white sugar (38g)
 - [ ] 1.5 tsp baking soda
-- [ ] 1.5 tsp baking soda
+- [ ] 1.5 tsp baking powder
 - [ ] 2 tsp kosher salt
 - [ ] 2.5 cups buttermilk (560g)
 - [ ] 2 large eggs
