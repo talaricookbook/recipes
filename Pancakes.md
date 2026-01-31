@@ -16,7 +16,7 @@ servings: 12
 - [ ] 2 tsp kosher salt
 - [ ] 2.5 cups buttermilk (560g)
 - [ ] 2 large eggs
-- [ ] 3 tbsp unsalted butter, melted
+- [ ] 3 tbsp unsalted butter, melted (43g)
 - [ ] 1 tsp vanilla extract
 
 ## 🥘 Instructions
