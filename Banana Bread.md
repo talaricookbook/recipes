@@ -9,12 +9,12 @@ servings: 1 Loaf
 # 🍌 Banana Bread
 
 ## 🛒 Ingredients
-- [ ] 2 cups (250g) all-purpose flour
+- [ ] 2 cups (240g) all-purpose flour
 - [ ] 1 tsp baking soda
 - [ ] 1/4 tsp kosher salt
 - [ ] 1/4 tsp ground cinnamon
 - [ ] 1/2 cup (1 stick or 115g) unsalted butter, softened to room temperature
-- [ ] 3/4 cup (150g) brown sugar
+- [ ] 3/4 cup (160g) brown sugar
 - [ ] 2 large eggs, at room temperature
 - [ ] 1/3 cup (80g) sour cream
 - [ ] 2 cups mashed bananas (about 4 large ripe bananas)
