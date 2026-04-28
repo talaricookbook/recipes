@@ -10,7 +10,7 @@ servings: 12
 
 ## 🛒 Ingredients
 - [ ] 3-4 lb boneless chuck roast, trimmed, cubed
-- [ ] 3 chipotle peppers in adobo sauce
+- [ ] 2 chipotle peppers in adobo sauce
 - [ ] 2 tbsp adobo sauce
 - [ ] 4 cloves garlic
 - [ ] 1 medium white onion, chopped
@@ -48,7 +48,7 @@ Blend until smooth.
 - Preheat the over to 300°
 - Place beef and sauce in Dutch oven
 - Add beef broth and bay leaves
-- Bake 3-3.5 hours, until fork tender
+- Bake 4 hours, until fork tender
 
 ### 4. Shred & Serve
 - Remove bay leaves
